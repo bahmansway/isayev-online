@@ -26,3 +26,7 @@ th { width:38%; background:#fafbfc; font-weight:600; }
 tr:last-child th, tr:last-child td { border-bottom:none; }
 footer { margin-top:48px; padding:24px 0; background:var(--ink); color:#aab3bd; font-size:.9rem; }
 footer a { color:#cfd6dd; margin-right:16px; }
+.icon { width:56px; height:56px; color:var(--accent); margin-bottom:10px; }
+.lines { margin:0; padding-left:18px; }
+.lines li { margin-bottom:4px; }
+.lines span { color:var(--muted); }
